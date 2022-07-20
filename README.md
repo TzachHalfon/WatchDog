@@ -1,11 +1,9 @@
 <div align="center">
 <h1 align="center">Watch Dog</h1>
-<img src="./flow.png" alt="Watch Dog" align="center" width="80" height="80">
 <br />
 <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" /><br>
 <br>
 An individual that monitors the activities of another entity, keeping it alive.
-<img src="./flow.png" alt="Watch Dog" width="500" height="500">
 </div>
 
 ***
@@ -18,7 +16,8 @@ compile your source file using wd.sh file replace your file name and path with w
 
 ### Usage
 ```
-write use command here
+You can use the program to run your code safly and when it will fail to run the wd will revive it.
+after the code finish its run you will a txt file with all the logs of the program including if the user app failed.
 ```
 
 ### Contributing
